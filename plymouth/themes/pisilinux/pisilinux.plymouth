@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=pisilinux
+Description=pisilinux boot theme.
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/pisilinux
+ScriptFile=/usr/share/plymouth/themes/pisilinux/pisilinux.script
